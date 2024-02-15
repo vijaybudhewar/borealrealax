@@ -1,0 +1,10 @@
+pandas
+streamlit
+streamlit-extras
+streamlit-chat
+streamlit-lottie
+Pillow
+langchain
+chromadb
+tiktoken
+faiss

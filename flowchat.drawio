@@ -1,0 +1,229 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:49:48.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DZ-sW96pGbI12ClEn5x9" version="22.0.6" type="device">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1101" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bTPClcuPiIluOy44SQCk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-1" target="bTPClcuPiIluOy44SQCk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-2" target="bTPClcuPiIluOy44SQCk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-2" value="We need data on which we want our chatbot to give answer on or our chatbot should refere to while giving answer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="190.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.website_generic;fillColor=#7D7D7D;" vertex="1" parent="1">
+          <mxGeometry x="580" y="163.2" width="64.55" height="56.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-11" value="The data from the website can be scrapped using python&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="280" as="sourcePoint" />
+            <mxPoint x="800" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="150" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-17" target="bTPClcuPiIluOy44SQCk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-17" value="Write an analysis on how big is the scrapped data , creates chunks from the&amp;nbsp; whole dataset to accommodate the whole data into maximum limit of the OpenAI&#39; tokens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="424" as="sourcePoint" />
+            <mxPoint x="540" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="424" as="sourcePoint" />
+            <mxPoint x="800" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="424" as="sourcePoint" />
+            <mxPoint x="540" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="294" as="sourcePoint" />
+            <mxPoint x="540" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-23" target="bTPClcuPiIluOy44SQCk-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-23" value="Whole scrapped data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=25;" vertex="1" parent="1">
+          <mxGeometry x="550" y="302.5" width="70" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-36" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.multiple_volumes_resource;" vertex="1" parent="1">
+          <mxGeometry x="692" y="311.25" width="78" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;There are many ways to create chunks of raw orignal data into small pieces&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-42" value="Whole scrapped data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=25;" vertex="1" parent="1">
+          <mxGeometry x="700" y="161.6" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-43" target="bTPClcuPiIluOy44SQCk-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-43" value="Store these chunks into a database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="580" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="580" as="sourcePoint" />
+            <mxPoint x="850" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="580" as="sourcePoint" />
+            <mxPoint x="540" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-50" target="bTPClcuPiIluOy44SQCk-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-50" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.multiple_volumes_resource;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-51" value="Convert into embeddings" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="485" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="504.5" as="sourcePoint" />
+            <mxPoint x="785" y="504.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-54" value="DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="480" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-55" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;The chunks of documents are stored in the form of numeric numbers (Yes words to numbers) into a database&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-56" value="Use RAG to retrieve the answers from database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-58" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="740" as="sourcePoint" />
+            <mxPoint x="540" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="740" as="sourcePoint" />
+            <mxPoint x="850" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-60" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="740" as="sourcePoint" />
+            <mxPoint x="540" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="611" as="sourcePoint" />
+            <mxPoint x="540" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-62" target="bTPClcuPiIluOy44SQCk-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-62" value="DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="645" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-63" target="bTPClcuPiIluOy44SQCk-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-63" value="User Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-66" value="Answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-68" value="Use of Semantic search for finding relevant documents&lt;br&gt;from the database to get the answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="695" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bTPClcuPiIluOy44SQCk-66" target="bTPClcuPiIluOy44SQCk-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="635" />
+              <mxPoint x="597" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTPClcuPiIluOy44SQCk-73" value="Feedback for continuitng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="608" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
